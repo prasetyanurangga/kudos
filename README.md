@@ -20,10 +20,10 @@ For more information contact angganurprasetya4@gmail.com
 
 **Download Apk**
 
-[Kudos.apk](https://raw.githubusercontent.com/prasetyanurangga/kudos/master/kudos.apk)
+[Kudos.apk](https://github.com/prasetyanurangga/kudos/raw/master/kudos.apk)
 
 ### Kudos App Final UI
 
-![App UI](https://raw.githubusercontent.com/prasetyanurangga/kudos/master/kudos_app_ui.png)
+![App UI](https://github.com/prasetyanurangga/kudos/raw/master/kudos_app_ui.png)
 
-![Demo](https://raw.githubusercontent.com/prasetyanurangga/kudos/master/kudos_app.gif)
+![Demo](https://github.com/prasetyanurangga/kudos/raw/master/kudos_app.gif)

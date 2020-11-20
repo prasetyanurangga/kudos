@@ -12,7 +12,7 @@
 
 **UI Credit**
 
-- Design by: Jae-seong, Jeong - [(iPhone X - Todo Concept)](https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept)
+- Design by: [Incraft Design](https://www.instagram.com/incraft.design/) - [(Kudos)](https://www.instagram.com/p/CG3sbzYgdrr/?utm_source=ig_web_copy_link)
 
 **Contact**
 
